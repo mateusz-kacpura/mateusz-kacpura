@@ -30,12 +30,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Activity Graph
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusz-kacpura&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/mateusz-kacpura)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusz-kacpura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/mateusz-kacpura)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mateusz-kacpura&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
