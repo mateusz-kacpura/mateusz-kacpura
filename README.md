@@ -41,16 +41,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mateusz-kacpura&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
